@@ -8,7 +8,7 @@ body {
 }
 
 header.hero {
-    background: url('https://img.freepik.com/vetores-premium/constelacao-do-zodiaco-no-fundo-do-ceu-noturno-estrelas-de-astrologia_53562-17825.jpg') no-repeat center center/cover;
+    background: url('celeste.jpeg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
